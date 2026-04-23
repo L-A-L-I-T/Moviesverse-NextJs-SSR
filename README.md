@@ -1,1 +1,0 @@
-# Moviesverse-NextJs-SSR
